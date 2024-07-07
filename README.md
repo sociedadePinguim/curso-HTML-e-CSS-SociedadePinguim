@@ -2,7 +2,7 @@
 
 # Curso de HTML e CSS da Sociedade Pinguim
 
-Bem-vindo ao repositório das aulas de HTML e CSS da Sociedade Pinguim! Este repositório contém o material das aulas, exemplos de código e recursos adicionais para você aprender e praticar HTML e CSS.
+Bem-vindo ao repositório das aulas de HTML e CSS da Sociedade Pinguim! Este repositório contém o material das aulas.
 
 
 ## Conteúdo
