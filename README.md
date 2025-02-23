@@ -31,8 +31,8 @@ Para baixar as imagens usadas no projeto, clique no link abaixo:
 
 Para mais informações e dúvidas, entre em contato conosco:
 
-- Site: [Sociedade Pinguim](https://beacons.ai/sociedadepinguim)
-- Discord: [Junte-se à nossa comunidade](https://beacons.ai/sociedadepinguim)
+- Site: [Sociedade Pinguim](https://sociedadepinguim.com.br)
+- Discord: [Junte-se à nossa comunidade](https://discord.gg/cvuzrPD)
 - Twitch: [Sociedade Pinguim na Twitch](https://www.twitch.tv/sociedadepinguim)
 
 
